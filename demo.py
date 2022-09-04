@@ -6,3 +6,4 @@
 
 print("Hello World")
 print("william")
+print("cool")
